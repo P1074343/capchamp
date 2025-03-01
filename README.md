@@ -23,3 +23,20 @@ File or Folder | Purpose
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
+
+# Getting Started
+
+# Productshop Application details
+
+## cds add data
+" This command generates a new data model for your application.This will create a new folder
+" called "data" in the "`db/` folder and add csv files in the data folder.. db -> data -> csvfiles " for your data model.
+
+## cds watch
+"This command starts the development server, allowing you to see changes in real-time as you 
+" develop and will listen to your file changes and automatically reload the application.
+
+
+
+
+
