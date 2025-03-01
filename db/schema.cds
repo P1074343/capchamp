@@ -1,3 +1,4 @@
+namespace sap.cap.productshop;
 entity Product
 {
     key ID : Integer;
