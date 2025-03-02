@@ -1,7 +1,7 @@
-ID,name,stock,price,category
-1,BMW,12,45550,A
-2,Tata,22,23320,B
-3,Ford,15,30000,C
-4,Hyundai,30,28800,C 
-5,Mercedes,10,50000,A 
-6,Audi,20,45000,A
+ID,name,cost_stock,cost_price,category,emission,rating
+1,BMW,12,45550,A,20000,A+
+2,Tata,22,23320,B,35000,B+
+3,Ford,15,30000,C,40000,B
+4,Hyundai,30,28800,C,33000,B
+5,Mercedes,10,50000,A,18000,A+
+6,Audi,20,45000,A,22000,A
