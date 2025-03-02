@@ -26,8 +26,9 @@ Learn more at https://cap.cloud.sap/docs/get-started/.
 
 # Getting Started
 1. Clone the repo from github inside BAS
-2. Use "cds watch" inside the terminal to start the development server
-3. Run the browser or go to test.http to do the testing
+2. Checkout to branch **domain-model** either by ui or by using **git checkout domain-model** in terminal
+3. Use "cds watch" inside the terminal to start the development server
+4. Run the browser or go to test.http to do the testing
 
 # Productshop Application details
 
